@@ -1,7 +1,18 @@
+*{
+  margin: 0
+}
 .big{
   text-align: center;
   background-color: yellow;
   font-size:10rem;
-  font-family:cursive;
-  color: yellow;
+  font-family : cursive;
+  color: red;
+
+}
+.margin-50 {
+  margin: 50px;
+}
+.twice {
+  height: 50px;
+  width: 50px;
 }
